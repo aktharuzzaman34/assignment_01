@@ -61,3 +61,17 @@ h1{
 .flexible-container p{
     text-align: justify;
 }
+.dream{
+    display: flex;
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 25%;
+}
+.my-goals{
+    width: 50%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.my-goals img{
+    width: 80%;
+}
