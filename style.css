@@ -37,3 +37,27 @@ h1{
 .blue{
     color: navy;
 }
+.value img{
+    width: 140px;
+}
+.value p{
+    text-align: justify;
+}
+.value-container{
+    display: flex;
+}
+.half-width{
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 2%;
+    padding-right: 2%;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px rgb(97, 97, 99);
+}
+.flexible-container{
+    display: flex;
+    margin-bottom: 100px;
+}
+.flexible-container p{
+    text-align: justify;
+}
