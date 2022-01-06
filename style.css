@@ -7,9 +7,6 @@ h1{
 .unexplored-world p{
     text-align: justify;
 }
-.gray-color{
-    color: gray;
-}
 .orange{
     color: orange;
 }
@@ -27,8 +24,16 @@ h1{
     padding-right: 5%;
 }
 .unexplored-world img{
-    width: 110%;
+    width: 70%;
 }
-.nasa-world{
+.vission{
     display: flex;
+}
+.mission-2022{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 700;
+}
+.blue{
+    color: navy;
 }
