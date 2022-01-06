@@ -76,3 +76,20 @@ h1{
 .my-goals img{
     width: 80%;
 }
+footer{
+    text-align: center;
+    background-color: black;
+    padding: 30px;
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-bottom: 10px;
+}
+.red{
+    color: white;
+}
+.green{
+    color: orangered;
+}
+footer p{
+    color: white;
+}
