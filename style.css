@@ -23,7 +23,6 @@ h1{
     width: 50%;
     padding-left: 5%;
     padding-right: 5%;
-    margin-bottom: 100px;
 }
 .unexplored-world img{
     width: 85%;
@@ -73,6 +72,9 @@ h1{
     width: 50%;
     padding-left: 5%;
     padding-right: 5%;
+}
+.my-goals p{
+    text-align: justify;
 }
 .my-goals img{
     width: 80%;
